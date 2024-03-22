@@ -19,7 +19,7 @@ menu:
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
   主页: / || fas fa-home
-  博文 || fa fa-graduation-cap:
+  博文 || fas fa-graduation-cap:
     分类: /categories/ || fa fa-archive
     标签: /tags/ || fa fa-tags
     归档: /archives/ || fa fa-folder-open
