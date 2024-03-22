@@ -8,8 +8,8 @@ subtitle: ''
 description: ''
 keywords:
 author: su
-language: en
-timezone: ''
+language: zh-CN	#语言
+timezone: Asia/Shanghai    #中国的时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
